@@ -1,4 +1,4 @@
-iname: fastapi-ecommerce-prod
+name: fastapi-ecommerce-prod
 services:
   web:
     # Берем Dockerfile из каталога app
